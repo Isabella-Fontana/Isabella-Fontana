@@ -3,16 +3,16 @@ Tenho 16 anos, sou aluna do Colégio Social Marista Irmão Acácio, e atualmente
 
 
 INTERESSES E SONHOS:
-Interesse por tecnologia
-Sonho em seguir nas áreas de Agronomia e Veterinária
+📌 Interesse por tecnologia
+📌Sonho em seguir nas áreas de Agronomia e Veterinária
 
 OBJETIVO PROFISSIONAL:
-Aberta à primeira oportunidade de emprego
+📌 Aberta à primeira oportunidade de emprego
 
 SOBRE MIM:
-Determinada e curiosa, com interesse em aprender.
-Humilde e adaptável, com força de vontade para crescer.
-Responsável e cuidadosa, ligada à natureza e aos animais.
+📌 Determinada e curiosa, sempre buscando aprender.
+📌 Humilde e adaptável, com força de vontade para crescer.
+📌 Responsável e cuidadosa, ligada à natureza e aos animais.
 
 Atualmente tenho alguns projetos em andamento, vou falar um pouco sobre eles: 
 
