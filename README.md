@@ -24,9 +24,11 @@ Outro trabalho é da matéria Programação Web, criamos uma página de calendá
 Vou deixar uma imagem dos trabalhos abaixo.
 
 <img width="592" height="293" alt="image" src="https://github.com/user-attachments/assets/f046021d-8264-4110-9d4c-49c3c9fee0f2" />
+
 Essas são algumas das telas, no total serão 13 telas.
 
 <img width="455" height="475" alt="image" src="https://github.com/user-attachments/assets/e54f2d95-5443-4a9c-b329-fa106ff7e472" />
+
 E esse é o Caledário Interativo, ele ja foi finalizado e foi feito individualmente.
 
 
