@@ -16,7 +16,7 @@ SOBRE MIM:
 
 Atualmente tenho alguns projetos em andamento, vou falar um pouco sobre eles: 
 
-Em um deles está sendo criado um aplicativo para o combate e denúncia de Queimadas e Desmatamento, o nome desse trabalho é Ecologia Integral. Está sendo feito em grupo, e já fizemos a modelagem de Banco de Dados do aplicativo e o Diagrama de Casos de Uso. Atualmente estamos na fase de desenhar telas de inspiração de baixa fidelidade de como será o aplicativo.
+Em um deles está sendo criado um aplicativo para o combate e denúncia de Queimadas e Desmatamento, o nome desse trabalho é Ecologia Integral. Está sendo feito em grupo, e já fizemos a modelagem de Banco de Dados do aplicativo e o Diagrama de Casos de Uso. Atualmente estamos na fase de desenhar telas de inspiração de alta fidelidade de como será o aplicativo.
 
 
 Outro trabalho é da matéria Programação Web, criamos uma página de calendário interativo ultilizando HTML, STYLE.CSS e JavaScript. Vou deixar uma imagem com o resultado final.
